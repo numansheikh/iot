@@ -1,4 +1,4 @@
-# iota-car-basic
+# ESP8266 based Wifi Controlled Car
 Converting your toy Car to an iot device. Detailed explaination is given at this **Medium** article [https://medium.com/@numan.sheikh/converting-a-simple-electric-car-into-a-iot-enabled-car-aa161c75695e].
 
 We assume thatyou have installed the ESP8266 support in the Arduino IDE.
