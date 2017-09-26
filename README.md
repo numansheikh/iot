@@ -1,5 +1,6 @@
 # ESP8266 based Wifi Controlled Car
-Converting your toy Car to an iot device. Detailed explaination is given at these blog posts. 
+This is a very barebone skeleton of code for converting your toy car to an iot device. 
+Detailed explaination is given at these blog posts. 
 - https://numan.space/2017/09/26/converting-a-simple-electric-car-into-an-iot-enabled-car
 - https://medium.com/@numan.sheikh/converting-a-simple-electric-car-into-a-iot-enabled-car-aa161c75695e
 
