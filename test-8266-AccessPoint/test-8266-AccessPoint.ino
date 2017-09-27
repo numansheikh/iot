@@ -2,15 +2,10 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 
-/* Set these to your desired credentials. */
 const char *ssid = "iotaDevice";
 const char *password = "00000000";
-
 ESP8266WebServer server(80);
 
-/* Just a little test message.  Go to http://192.168.4.1 in a web browser
- * connected to this access point to see it.
- */
 void handleRoot() {
 	server.send(200, "text/html", "<h1>Hello from the iota World</h1>");
 }
